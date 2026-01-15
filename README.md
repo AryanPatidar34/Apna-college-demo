@@ -1,4 +1,4 @@
 # Apna-college-demo
 this is my first git repository
 <br>
-Author - Aryan Patidar
+Author - Aryan Patidar(student)
